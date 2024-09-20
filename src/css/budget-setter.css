@@ -1,0 +1,22 @@
+.card-header{
+    background-color: var(--primary-color);
+    color: var(--text-color);
+}
+
+.card-footer{
+    background-color: var(--text-color);
+}
+
+.error{
+    color: var(--error-color);
+    margin: 10px 0 0 0;
+    font-weight: 500;
+}
+
+#confirmedBudget{
+    display: none;
+}
+
+.confirmedBudgetagain{
+    color: var(--error-color);
+}
